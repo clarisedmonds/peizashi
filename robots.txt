@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uodaivoloo.beardeddragonowners.com/sitemap.xml
